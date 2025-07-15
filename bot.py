@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatPer
 from telegram.ext import Updater, CommandHandler, CallbackContext, CallbackQueryHandler, Filters, MessageHandler
 from telegram.error import BadRequest
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # Replace with your token
+BOT_TOKEN = '7685134552:AAH_qlJp65O9w7Vkzq74J_w6BmoJWguuWrY'  # Replace with your token
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
